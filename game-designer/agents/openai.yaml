@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Designer"
+  short_description: "Design, test, and refine distinctive indie games"
+  default_prompt: "Use $game-designer to develop my game idea into a focused prototype and an evidence-based iteration plan."

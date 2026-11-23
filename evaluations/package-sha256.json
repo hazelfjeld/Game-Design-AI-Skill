@@ -1,0 +1,21 @@
+{
+  "SKILL.md": "c49165b866e40d2dd9857c2d631ae8ed5703bec94a16416c258df499ef73d67e",
+  "agents/openai.yaml": "bd5430d324b8782b4074df40f1817d75e82b8988695ea3314abe9cd234211602",
+  "assets/templates/decision-record.md": "0eeba91ec7c885a8c64b3ca3420f82d78eafe08b5a9667e343f38e16e6de0752",
+  "assets/templates/design-brief.md": "003c9d80c664183b21617192d7555224c1a73a63415a584e9a176d697128e0ab",
+  "assets/templates/experiment-card.md": "099587a4ba488bb7669cd24813eb0ff689f213f915403e8390477b6de468ca7a",
+  "assets/templates/mechanic-spec.md": "63e0fc749feb92a3cb9670e8895e9e824f0d4351ad65e986527de2686c939d1a",
+  "assets/templates/playtest-observation.md": "561d74c00bb6af7d1fe357ddb593ac1f54304b0eebddaac6940890d57ba7743b",
+  "assets/templates/playtest-plan.md": "9ec2ac3d476fea47c59616131fe55d006d5143ac4afacbb56690547f4f843706",
+  "assets/templates/project-board.md": "6c6f37a5160361b3fffc23d4005986af14dd32f24667e7a9834db043f8c2458a",
+  "assets/templates/run-handoff.md": "d885df5a40565ecf047857d07191307fd5457e19126c14d507c4da6ab9bfe166",
+  "assets/templates/slice-plan.md": "d5e872013e72d977aaf53df4505a032b4fb23dbc6b8030537ba578860c1240e3",
+  "references/audience-and-positioning.md": "860e68131f307fb90a7a75f82ab712dbe7c68c89170adc838d5cc52009c4aa0b",
+  "references/design-foundations.md": "95bc49436fce0eecf43634a6abedb5b31ed99433fbbc49ef086e7ac7109baa82",
+  "references/game-feel-and-accessibility.md": "a161549670f43272983c85833299185181458152741dda2200d1fcb4f4ce83f6",
+  "references/learning-path.md": "229cfeaa58be9c366de123289c48774c21eaba4a06142ce53d6fe99a64dad811",
+  "references/playtesting-and-evidence.md": "45315a5ea8ded71a0f068e6d326abb109a36fc45bca7ea604dc1600c2ab2483f",
+  "references/production-and-collaboration.md": "12ce07fee5b25c5ddff370c316eae5a3d07dfb19098f0f05cafc3a52de8951a2",
+  "references/sources.md": "47cb262ac9c60cf2801f36d964954cf5fd962226ef1d61f818bea562715d6a45",
+  "references/systems-and-balance.md": "1b0a98603b364ef631fccb1b376228196fb24d6af127da58a308f0b40d51b43e"
+}

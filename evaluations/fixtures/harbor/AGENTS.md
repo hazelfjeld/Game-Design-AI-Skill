@@ -1,0 +1,2 @@
+# Harbor collaboration
+This is a local game-design workspace. Work only within the assigned task. Do not contact external services or push. Team integrator maintains BOARD.md. Engineer owns game/feeding.gd while task ENG-12 is active. Designer has accepted ownership of DES-7 and may write design/feeding-observation-plan.md and a unique runs/ note. Preserve all other files and uncommitted work. For this run, do not commit; leave a documented working tree.

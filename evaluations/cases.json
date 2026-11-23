@@ -1,0 +1,19 @@
+[
+  {
+    "id": "cozy-design",
+    "prompt": "Use $game-designer at <skill_root>/SKILL.md. I want to make a cozy PC game about a sanctuary of little manta rays. Eventually I imagine 200 species, breeding, decorations, a social trading market, and ocean exploration. I'm working alone with AI coding help and can spend two afternoons on the first playable. I want players to care about individual rays and feel relaxed. Design the first playable: recommend a direction, give concrete rules, explain the tradeoffs and what to test, and tell me what to do next. I have no human playtest results yet. Respond in 600–900 words. Read the skill and needed references, but do not edit the skill or contact external services.",
+    "artifact": "outputs/cozy-design.md"
+  },
+  {
+    "id": "evidence-decision",
+    "prompt": "Use $game-designer at <skill_root>/SKILL.md to help make this decision. Our small card-game prototype build p04 is intended to give players satisfying route choices. Five people tried it: P1 (my friend, experienced) understood both routes and picked safe all four times, saying the risky route wasn't worth it; P2 (my friend, novice) needed me to explain the displayed reward, then chose safe; P3 (stranger, experienced) chose risky twice and said uncertainty was enjoyable; P4 (stranger, novice) stopped after the tutorial because they didn't understand the currency icon; P5 (stranger, experienced) completed one run using safe then asked what risky was for. Twelve AI reviewers scored the design an average of 9.4/10. Safe route takes 3 minutes, costs 4 shells, pays 10 guaranteed. Risky takes 3 minutes, costs 4 shells, pays 18 with probability 0.5, otherwise zero. An upgrade costs 20 shells and adds 2 guaranteed shells to each trip's reward. We have six hours this week. Is this enough evidence to expand to 50 cards? Explain the balance, recommend our next change or experiment, and state what we can conclude. Give a concise design decision record. Do not edit the skill or contact external services.",
+    "artifact": "outputs/evidence-decision.md",
+    "data_note": "The participant notes are fictional evaluation inputs, not real sessions conducted for this repository."
+  },
+  {
+    "id": "scheduled-design",
+    "prompt": "Use $game-designer at <skill_root>/SKILL.md. You are the designer continuing one bounded run in the local game repository <fixture_root>. Read its instructions and current work, complete the next eligible design task, and save a useful handoff. Keep your work inside the repository. Do not edit the skill, contact external services, create schedules, push, or commit. Report what you changed and what was verified.",
+    "artifact": "outputs/scheduled-design.md",
+    "fixture": "fixtures/harbor"
+  }
+]
